@@ -1,0 +1,8 @@
+
+player-join: "§7[§a+§7] §f{nick} join the server"
+
+player-title: "§7Welcome \n §f{nick}"
+
+player-quit: "§7[§c-§7] §f{nick} leave the server"
+
+motd-server: "§dAstral §7| §fMCPE"
